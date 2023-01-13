@@ -1,0 +1,51 @@
+/*external CSS*/
+div{
+    height: 200px;
+    background-color: blue;
+    color: whitesmoke;
+}
+h1{
+    color: darkgreen;
+}
+p{
+    height: 150px;
+    width: 80%;
+    background-color: aquamarine;
+    color: crimson;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: lowercase;
+    text-overflow: clip;
+    overflow: scroll;
+    text-indent: 20px;
+    /* margin-top: 50px; */
+    /* margin-left: 1px;  */
+    margin: 50px 2px 20px 5px;
+    border-top: 2px solid blue;
+    border-left: red;
+    border-bottom: 2px solid black;
+    padding: 20px;
+
+}
+#shadow{
+text-shadow: 10px 20px blueviolet;
+background-color: white;
+}
+#paral{
+    height: 300px; 
+    width: 300px;
+      /* background-color: rgb(255, 0, 0); */
+    /* background-color: hsla(2000, 50%, 50%,0.9); *//
+    background-image: url(./remove-bg.webp);
+    opacity: 0.6;      
+    color: blanchedalmond;  
+    font-size: 16px;
+    font-weight: bolder;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    /* border width: 5px; */
+    /* border-color: black; */
+    /* border-style: solid; */
+    border-radius:10px;
+    border: 10px dashed green;
+    }
